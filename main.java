@@ -59,7 +59,9 @@ class Equipe {
     }
 }
 
-public class Main {
+// os nomes e emails são exemplos
+
+public class main {
     public static void main(String[] args) {
         
         Usuario gerente = new Usuario("Ana Silva", "ana@email.com", "Gerente");
