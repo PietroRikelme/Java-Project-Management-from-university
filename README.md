@@ -1,4 +1,5 @@
 📘 Projeto de Sistema em Java por Pietro Rikelme Santos Onofre
+
 📌 Descrição
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico para a faculdade, com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento.
@@ -13,6 +14,8 @@ VS Code (Visual Studio Code)
 
 Git & GitHub para versionamento de código
 
+
+
 📂 Estrutura do projeto
 
 O projeto contém as seguintes classes principais:
@@ -25,6 +28,8 @@ Equipe → gerencia a equipe vinculada ao projeto
 
 Main → classe principal que executa o programa
 
+
+
 ⚙️ Funcionalidades
 
 Cadastro de usuários
@@ -34,6 +39,8 @@ Criação de projetos
 Associação de usuários a equipes
 
 Simulação simples da interação entre essas entidades
+
+
 
 ▶️ Como executar o projeto
 1. Clonar o repositório
@@ -65,6 +72,8 @@ javac *.java
 Ainda dentro da pasta /src:
 
 java Main
+
+
 
 📖 Exemplo de uso
 
