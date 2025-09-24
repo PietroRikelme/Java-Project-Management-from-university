@@ -47,7 +47,7 @@ Simulação simples da interação entre essas entidades
 
 No terminal (VS Code ou Git Bash):
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git  (altere os campos necessários)
+git clone https://github.com/PietroRikelme/Java-Project-Management-from-university
 
 2. Abrir no VS Code
 
