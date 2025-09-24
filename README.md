@@ -81,5 +81,7 @@ Ao executar o sistema, o programa cria objetos de exemplo para simular o cadastr
 Exemplo de saída esperada:
 
 Usuário cadastrado: Ana
+
 Projeto criado: Sistema de Gestão
+
 Equipe formada: Equipe Alpha
